@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace OpenPluginFolder
 {
     /// <summary>
-    /// MainWindow.xaml の相互作用ロジック
+    /// UserControl1.xaml の相互作用ロジック
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class UserControl1 : UserControl
     {
-        public MainWindow()
+        public UserControl1()
         {
             InitializeComponent();
         }
